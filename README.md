@@ -64,7 +64,7 @@ This repository contains the full documentation of the Yandex Market Partner API
 
 ## License
 
-This documentation is provided for educational and reference purposes. Please refer to [Yandex Developer Terms](https://yandex.ru/legal/developer/) for usage guidelines.
+This documentation is provided for educational and reference purposes. Please refer to [Yandex Market Affiliate API Terms](https://yandex.ru/legal/market_affiliate_api/en/) for usage guidelines.
 
 ---
 
